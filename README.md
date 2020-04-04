@@ -3,4 +3,4 @@ projectos da disciplina de multimedia tangível - compatíveis com Raspberry Pi 
 
 Alguns dos exemplos só funcionam com determinados sensores.
 
-Alguns scripts transitaram para Godot 
+Alguns scripts transitaram para Godot (extensão Godot)
